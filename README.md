@@ -1,7 +1,7 @@
 # 01. 면접을 위한 CS 전공지식 노트
 
 
-## 책 : [면접을 위한 CS 전공지식 노트](https://ridibooks.com/books/754034561) CS 스터디
+## 도서 : [면접을 위한 CS 전공지식 노트](https://ridibooks.com/books/754034561) CS 스터디
 
 ## 목차 및 진행 상황
 
