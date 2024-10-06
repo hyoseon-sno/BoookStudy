@@ -17,7 +17,7 @@
 |4장. 데이터베이스(4.5,4.6,4.7) |8주차(9월 26일)|✅|✅|
 |5장. 자료구구조 |9주차(10월 3일) |✅|✅|
 
-
+<br>
 
 # 02. 백엔드 기술 면접 대비
 
@@ -25,4 +25,27 @@
 ## 참고 : https://github.com/devham76/tech-interview-study
 
 ## 목차 및 진행 상황
+<table border="1">
+  <tr>
+    <th>범위</th>
+    <th>일자</th>
+    <th>내용</th>
+    <th>완료 유무</th>
+    <th>참석 유무</th>
+  </tr>
+  <tr>
+    <td rowspan="3">네트워크</td>
+    <td rowspan="3">01일차(2024.10.07)</td> <!-- 일자는 하나로 병합 -->
+    <td>1. tcp udp의 차이점을 설명하라</td>
+    <td rowspan="3">✅</td> 
+    <td rowspan="3">✅</td> 
+  </tr>
+  <tr>
+    <td>2. 흐름제어기법중 슬라이딩 윈도우 방식에 대해 설명하라</td>
+  </tr>
+  <tr>
+    <td>3. Tcp udp 패킷 구조 차이점</td>
+  </tr>
+</table>
+
 
