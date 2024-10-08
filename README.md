@@ -46,6 +46,16 @@
   <tr>
     <td>3. Tcp udp 패킷 구조 차이점</td>
   </tr>
+    <tr>
+    <td rowspan="2">네트워크</td>
+    <td rowspan="2">01일차(2024.10.07)</td> <!-- 일자는 하나로 병합 -->
+    <td>1. OSI 7계층에 대해 설명하라</td>
+    <td rowspan="2">✅</td> 
+    <td rowspan="2">✅</td> 
+  </tr>
+  <tr>
+    <td>Restful API란?</td>
+  </tr>
 </table>
 
 
