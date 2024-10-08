@@ -54,7 +54,7 @@
     <td rowspan="2">✅</td> 
   </tr>
   <tr>
-    <td>Restful API란?</td>
+    <td>2. Restful API란?</td>
   </tr>
 </table>
 
