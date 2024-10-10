@@ -48,13 +48,41 @@
   </tr>
     <tr>
     <td rowspan="2">네트워크</td>
-    <td rowspan="2">01일차(2024.10.07)</td> <!-- 일자는 하나로 병합 -->
+    <td rowspan="2">02일차(2024.10.08)</td> 
+    <td>1. 브라우저에 네이버홈페이지 url을 입력했을때 일어나는 과정을 설명해라</td>
+    <td rowspan="2">✅</td> 
+    <td rowspan="2">✅</td> 
+  </tr>
+  <tr>
+    <td>2. 3-way handshaking이란?</td>
+  </tr>
+    <tr>
+    <td rowspan="2">네트워크</td>
+    <td rowspan="2">03일차(2024.10.09)</td> 
     <td>1. OSI 7계층에 대해 설명하라</td>
     <td rowspan="2">✅</td> 
     <td rowspan="2">✅</td> 
   </tr>
   <tr>
     <td>2. Restful API란?</td>
+  </tr>
+    <tr>
+    <td rowspan="2">네트워크</td>
+    <td rowspan="2">04일차(2024.10.10)</td> 
+    <td>1. HTTP와 HTTPS의 차이는?</td>
+    <td rowspan="2">❌</td> 
+    <td rowspan="2">❌</td> 
+  </tr>
+  <tr>
+    <td>2. GET과 POST의 차이는?</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1">네트워크</td>
+    <td rowspan="1">05일차(2024.10.11)</td> <!-- 일자는 하나로 병합 -->
+    <td>1. Session과 Cookie 차이는?</td>
+    <td rowspan="1"></td> 
+    <td rowspan="1"></td> 
   </tr>
 </table>
 
