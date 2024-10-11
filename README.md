@@ -30,8 +30,8 @@
     <th>범위</th>
     <th>일자</th>
     <th>내용</th>
-    <th>완료 유무</th>
-    <th>참석 유무</th>
+    <th>완료</th>
+    <th>참석</th>
   </tr>
   <tr>
     <td rowspan="3">네트워크</td>
