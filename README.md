@@ -93,14 +93,6 @@
     <td rowspan="2">✅</td> 
   </tr>
 
-  <tr>
-    <td rowspan="2">네트워크</td>
-    <td rowspan="2">06일차<br>(24.10.14)</td> 
-    <td>1. iocp란</td>
-    <td rowspan="2">✅</td> 
-    <td rowspan="2">✅</td> 
-  </tr> 
-
 </table>
 
 
