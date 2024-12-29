@@ -5,6 +5,8 @@
 
 ## 목차 및 진행 상황
 
+2024.08.02 - 2024.10.03
+
 |목차|일자|완료 유무| 참석 유무|
 |:---|:---|:---:|:---:|
 |1장. 디자인 패턴|1주차(8월 02일)| :white_check_mark: |✅|
@@ -25,6 +27,9 @@
 ## 참고 : https://github.com/devham76/tech-interview-study
 
 ## 목차 및 진행 상황
+
+2024.10.07 - 2024.10.14
+
 <table border="1">
   <tr>
     <th>범위</th>
@@ -82,7 +87,7 @@
     <td rowspan="1">05일차<br>(24.10.11)</td> <!-- 일자는 하나로 병합 -->
     <td>1. Session과 Cookie 차이는?</td>
     <td rowspan="1">✅</td> 
-    <td rowspan="1">✅</td> http keep alive / tcp keep alive
+    <td rowspan="1">✅</td>
   </tr>
 
   <tr>
