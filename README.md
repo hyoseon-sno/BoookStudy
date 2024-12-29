@@ -1,4 +1,16 @@
-# 01. 면접을 위한 CS 전공지식 노트
+# 01. 가상 면접 사례로 배우는 대규모 시스템 설계 기초
+
+## 도서 : [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://search.shopping.naver.com/book/catalog/32485737619?cat_id=50010921&frm=PBOKMOD&query=%EA%B0%80%EC%83%81+%EB%A9%B4%EC%A0%91+%EC%82%AC%EB%A1%80%EB%A1%9C+%EB%B0%B0%EC%9A%B0%EB%8A%94+%EB%8C%80%EA%B7%9C%EB%AA%A8+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EC%84%A4%EA%B3%84+%EA%B8%B0%EC%B4%88&NaPm=ct%3Dm598xx7s%7Cci%3D84cd57a613bf1a8c7c84ff7193c2e628f10f6969%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D8ef3e9133f541672e94a2823a455cc6c201aceb5)
+
+## 목차 및 진행 상황
+
+1차 : 024.07.01 - 2024.08.10
+<br>
+→ 완료 했지만 이해 못함. 2차 스터디 재진행 예정
+
+<br>
+
+# 02. 면접을 위한 CS 전공지식 노트
 
 
 ## 도서 : [면접을 위한 CS 전공지식 노트](https://ridibooks.com/books/754034561)
@@ -21,7 +33,7 @@
 
 <br>
 
-# 02. 백엔드 기술 면접 대비
+# 03. 백엔드 기술 면접 대비
 
 
 ## 참고 : https://github.com/devham76/tech-interview-study
